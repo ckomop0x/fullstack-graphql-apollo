@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-graphql-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pavel Ckomop0x Klochkov <paul.klochkov@gmail.com> (https://ckomop0x.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "2.6.2",
+    "graphql": "14.3.1",
+    "isomorphic-unfetch": "3.0.0"
+  }
+}
