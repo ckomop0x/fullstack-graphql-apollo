@@ -12,7 +12,7 @@ const typeDefs = `
 // Functions that resolve data for each field
 const resolvers = {
   Query: {
-    totalDays: () => 100
+    totalDays: () => 150
   }
 }
 
